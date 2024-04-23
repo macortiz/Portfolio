@@ -1,6 +1,6 @@
 # MARY ANN ORTIZ
 
-**Website Link:** [PORTFOLIO](https://macortiz.github.io/Portfolio/main.html)
+**Website Link:** [PORTFOLIO](https://macortiz.github.io/portfolio/main.html)
 
 This is my webpage, serving as my portfolio. It showcases my projects, resume, and contact information
 
